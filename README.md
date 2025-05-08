@@ -1,6 +1,6 @@
-🖥️ System Monitor (Rust Edition)
+# 🖥️ System Monitor
 
-A desktop system monitor built in Rust using Dear ImGui for the user interface. This application displays live information on CPU, memory, processes, thermal state, fan performance, and network activity by leveraging the Linux /proc filesystem.
+A desktop system monitor built in Rust using `Dear ImGui` for the user interface. This application displays live information on CPU, memory, processes, thermal state, fan performance, and network activity by leveraging the Linux /proc filesystem.
 
 ## 📌 Project Objectives
 
